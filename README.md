@@ -1,5 +1,5 @@
-# icsquared
-machine learning/deep learning examples
+# icsquared-ml
+machine learning examples
 
-this repo contains examples of machine learning/deep learning code.
+this repo contains examples of machine learning code.
 
